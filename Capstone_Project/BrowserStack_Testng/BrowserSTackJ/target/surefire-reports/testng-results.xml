@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-03T12:29:40 IST" name="test" finished-at="2025-09-03T12:30:12 IST" duration-ms="32303">
+    <groups>
+    </groups>
+    <test started-at="2025-09-03T12:29:40 IST" name="test" finished-at="2025-09-03T12:30:12 IST" duration-ms="32303">
+      <class name="browserS1.BSTack">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:29:40 IST" name="beforeTest" finished-at="2025-09-03T12:29:46 IST" duration-ms="6071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="login()[pri:1, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:29:46 IST" name="login" finished-at="2025-09-03T12:29:47 IST" duration-ms="1317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="deleteitemfromcart()[pri:2, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:29:47 IST" name="deleteitemfromcart" finished-at="2025-09-03T12:29:51 IST" duration-ms="4000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteitemfromcart -->
+        <test-method signature="shipping()[pri:3, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:29:51 IST" name="shipping" finished-at="2025-09-03T12:29:54 IST" duration-ms="2375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shipping -->
+        <test-method signature="search1()[pri:4, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:29:54 IST" name="search1" finished-at="2025-09-03T12:30:08 IST" duration-ms="14765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search1 -->
+        <test-method signature="shopbybrand()[pri:5, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:30:08 IST" name="shopbybrand" finished-at="2025-09-03T12:30:10 IST" duration-ms="1709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopbybrand -->
+        <test-method signature="favorites()[pri:6, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:30:10 IST" name="favorites" finished-at="2025-09-03T12:30:10 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- favorites -->
+        <test-method signature="offers()[pri:7, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:30:10 IST" name="offers" finished-at="2025-09-03T12:30:11 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- offers -->
+        <test-method signature="oders()[pri:8, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:30:11 IST" name="oders" finished-at="2025-09-03T12:30:11 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oders -->
+        <test-method signature="privacypolicy()[pri:9, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:30:11 IST" name="privacypolicy" finished-at="2025-09-03T12:30:11 IST" duration-ms="682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- privacypolicy -->
+        <test-method signature="logout()[pri:10, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:30:11 IST" name="logout" finished-at="2025-09-03T12:30:12 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="subsribe()[pri:11, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:30:12 IST" name="subsribe" finished-at="2025-09-03T12:30:12 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subsribe -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:browserS1.BSTack@35e2d654]" started-at="2025-09-03T12:30:12 IST" name="afterTest" finished-at="2025-09-03T12:30:12 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- browserS1.BSTack -->
+    </test> <!-- test -->
+  </suite> <!-- test -->
+</testng-results>

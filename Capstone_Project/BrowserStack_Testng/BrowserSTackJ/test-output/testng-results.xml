@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="11" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-03T12:09:10 IST" name="Default suite" finished-at="2025-09-03T12:09:18 IST" duration-ms="7405">
+    <groups>
+    </groups>
+    <test started-at="2025-09-03T12:09:10 IST" name="Default test" finished-at="2025-09-03T12:09:18 IST" duration-ms="7405">
+      <class name="browserS1.BSTack">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:browserS1.BSTack@2de23121]" started-at="2025-09-03T12:09:10 IST" name="beforeTest" finished-at="2025-09-03T12:09:17 IST" duration-ms="6790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="subsribe()[pri:11, instance:browserS1.BSTack@2de23121]" started-at="2025-09-03T12:09:17 IST" name="subsribe" finished-at="2025-09-03T12:09:17 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subsribe -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:browserS1.BSTack@2de23121]" started-at="2025-09-03T12:09:17 IST" name="afterTest" finished-at="2025-09-03T12:09:18 IST" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- browserS1.BSTack -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

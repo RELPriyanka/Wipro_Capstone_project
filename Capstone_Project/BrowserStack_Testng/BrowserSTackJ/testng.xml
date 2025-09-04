@@ -1,0 +1,7 @@
+<suite name="test">
+    <test name="test">
+        <classes>
+            <class name="browserS1.BSTack"/>
+        </classes>
+    </test>
+</suite>

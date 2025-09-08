@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="115.547" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-09-02T10:18:56.551740500Z">
+<testcase classname="check user is able to login with valid credetials" name="succesful login - #1.1" time="4.763">
+<system-out><![CDATA[
+Given log page open in deff browser.........................................passed
+When give input in the priya.enj4@gmail.com field...........................passed
+Then email entered successfully.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login" time="8.406">
+<system-out><![CDATA[
+Given log page opened in def browser........................................passed
+When click on add and del from cart.........................................passed
+Then successful.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login" time="7.51">
+<system-out><![CDATA[
+Given log page open in def browser..........................................passed
+When clhange the address after checkout.....................................passed
+Then successfully changed address...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login" time="5.117">
+<system-out><![CDATA[
+Given logn page opened in def browser.......................................passed
+When click on each brand....................................................passed
+Then clicked on each brand..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login" time="5.275">
+<system-out><![CDATA[
+Given logn page open in def browser.........................................passed
+When click on a prod and addtofav...........................................passed
+Then added to fav...........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login" time="8.629">
+<system-out><![CDATA[
+Given login page opened in def browser......................................passed
+When click on usern and pass................................................passed
+Then login is success.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login" time="5.654">
+<system-out><![CDATA[
+Given login page opened in def browserr.....................................passed
+When click on logout........................................................passed
+Then logout is success......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login" time="4.834">
+<system-out><![CDATA[
+Given loginn page opened in def browser.....................................passed
+When click on each offerspage...............................................passed
+Then clicked on offerspage..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login" time="7.66">
+<system-out><![CDATA[
+Given login page open in def browser........................................passed
+When click on the orders page...............................................passed
+Then successfully orders page is opened.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login" time="6.169">
+<system-out><![CDATA[
+Given loginn page open in def browser.......................................passed
+When click on the privacynote in footer.....................................passed
+Then successfully clicked...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login - #1.1" time="5.58">
+<system-out><![CDATA[
+Given logi page open in def browser.........................................passed
+When give multiple search apple.............................................passed
+Then search is successful...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login - #1.2" time="34.529">
+<system-out><![CDATA[
+Given logi page open in def browser.........................................passed
+When give multiple search oneplus...........................................passed
+Then search is successful...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login - #1.3" time="5.485">
+<system-out><![CDATA[
+Given logi page open in def browser.........................................passed
+When give multiple search samsung...........................................passed
+Then search is successful...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check user is able to login with valid credetials" name="succesful login - #1.4" time="5.729">
+<system-out><![CDATA[
+Given logi page open in def browser.........................................passed
+When give multiple search google............................................passed
+Then search is successful...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
